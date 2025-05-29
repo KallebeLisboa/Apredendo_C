@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1748374395 source:c:\users\kalle\onedrive\Área de trabalho\config em c\aula 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
