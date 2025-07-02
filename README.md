@@ -1,2 +1,2 @@
 # Apredendo_C
- Testes para aprender a pprogramar em C
+ Testes para aprender a programar em C
